@@ -10,7 +10,11 @@ An Angular Material package for selecting country from list.
 
 ## Images
 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/alanrs2020/ngx-country-dropdown/blob/master/images/image1.JPG)
+![alt text](https://github.com/alanrs2020/ngx-country-dropdown/blob/master/images/image2.JPG)
+![alt text](https://github.com/alanrs2020/ngx-country-dropdown/blob/master/images/image3.JPG)
+
+
 ## Installation
 
 ### Install This Library
