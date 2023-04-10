@@ -1,0 +1,10 @@
+<form action="" [formGroup]="testForm" (submit)="onSubmit()">
+    <br>
+    <ngx-country-dropdown defaultValue="India" formControlName="country"></ngx-country-dropdown>
+    <br>
+    <input class="btn" type="submit" value="Show">
+</form>
+
+
+<p> {{ selectedCountry}} </p>
+

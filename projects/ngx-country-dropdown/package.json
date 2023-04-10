@@ -1,0 +1,16 @@
+{
+  "name": "ngx-country-dropdown",
+  "version": "2.2.5",
+  "peerDependencies": {
+    "@angular/common": "^15.0.0",
+    "@angular/core": "^15.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "author": {
+    "name": "ALAN R S",
+    "email": "alanrs2020@gmail.com",
+    "url": "https://github.com/alanrs2020"
+  }
+}

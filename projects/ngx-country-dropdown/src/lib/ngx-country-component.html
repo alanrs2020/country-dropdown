@@ -1,0 +1,6 @@
+
+    <select class="ngx-country-select"  [formControl]="country" (blur)="onTouched()"
+    (input)="onTouched()" aria-describedby="All country list">
+        <option class="ngx-country-option" *ngIf="defaultValue" [value]="defaultValue" > {{defaultValue }}</option>
+        <option *ngFor="let element of countries" [value]="element.name.common">{{ element.name.common }}</option>
+    </select>

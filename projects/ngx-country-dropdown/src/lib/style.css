@@ -1,0 +1,20 @@
+.ngx-country-select:focus{
+    border-color: rgb(0, 132, 255);
+    padding: 8px 12px;
+    border-radius: 5px;
+    margin: 3px;
+    min-width: 100px;
+    outline: none;
+    box-shadow: 0px 1px 5px  rgb(0, 132, 255);
+}
+.ngx-country-select{
+    
+    padding: 8px 12px;
+    border-radius: 5px;
+    margin: 3px;
+    background-color: #fff;
+    min-width: 100px;
+    border-color: #ddd;
+    box-shadow: 0px 1px 5px #ddd;
+}
+
